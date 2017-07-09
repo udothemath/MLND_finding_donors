@@ -8,4 +8,4 @@ IPython: find_donors.ipynb
 Data: census.csv  
 Report: report.html  
 Helper function (visualization): visuals.py  
-(Note: vX indicates the X$^{th}$ version)
+(Note: vX indicates the Xth version)
